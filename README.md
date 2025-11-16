@@ -1,7 +1,13 @@
-# seth-optical-player-adobe-air
+# Seth Optical Player - Adobe AIR 1.0.x (The Baap of Media Playback!)
+
 "Legacy Adobe AIR Optical Media Player 1.0.x by Gaurav Seth (Workforce Next). Revived for Seth Clan — JW Player baap vibes, Flex port incoming! Open-source gift from Vishal Anant Seth."
 
-# Seth Optical Player - Adobe AIR 1.0.x (The Baap of Media Playback!)
+
+<p align="center">
+  <img src="https://github.com/post2vishal/seth-optical-player-adobe-air/blob/main/Screenshot%202025-11-16%20225953.png?raw=true" alt="Seth Optical Player Screenshot" width="800"/>
+  <br>
+  <em>Seth Optical Player - Adobe AIR desktop application (November 16, 2025)</em>
+</p>
 
 Legacy gem by **Gaurav Seth** — Flex wizard &  SoftSol Consulting Partner of Vishal Seth. Built on Adobe AIR for optical disc playback (CD/DVD/Blu-ray controls, smooth streaming like JW Player original).
 
